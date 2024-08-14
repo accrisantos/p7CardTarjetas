@@ -25,8 +25,9 @@ se realizan varios eje,plos de card con propiedades
 ![image](https://github.com/user-attachments/assets/c4db3667-f232-4897-9927-d914b3b8d700)
 
 ## Links de referencia
--https://programmerspouch.medium.com/3-card-flutter-famous-widgets-guide-1b4434f962b1
--https://codesinside.com/flutter-appbar-example-tutorial/
+- https://programmerspouch.medium.com/3-card-flutter-famous-widgets-guide-1b4434f962b1
+- 
+- https://codesinside.com/flutter-appbar-example-tutorial/
 
 
 
