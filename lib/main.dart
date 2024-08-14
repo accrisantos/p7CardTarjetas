@@ -82,7 +82,7 @@ class _PaginainicioState extends State<Paginainicio> {
                       children: [
                         Center(
                           child: Text(
-                            'Flutter is Cool',
+                            'Crisantos is Cool',
                             style: TextStyle(
                                 color: Colors.blueAccent, fontSize: 30),
                           ),
