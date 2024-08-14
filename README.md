@@ -17,5 +17,15 @@ se realizan varios eje,plos de card con propiedades
 ![image](https://github.com/user-attachments/assets/835e9fc3-e3dc-412c-a192-e1adb214538c)
 
 
+##color de tarjeta y texto con logo y borde
+![image](https://github.com/user-attachments/assets/9d2ce874-b3e7-48e1-a925-949acf245b6d)
+
+
+##color de tarjeta y texto con logo y borde con color
+![image](https://github.com/user-attachments/assets/ff2140a0-4e0a-41d4-a791-bde3b1e84f39)
+
+
+
+
 
 
