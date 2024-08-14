@@ -22,7 +22,8 @@ se realizan varios eje,plos de card con propiedades
 
 
 ##color de tarjeta y texto con logo y borde con color
-![image](https://github.com/user-attachments/assets/ff2140a0-4e0a-41d4-a791-bde3b1e84f39)
+![image](https://github.com/user-attachments/assets/c4db3667-f232-4897-9927-d914b3b8d700)
+
 
 
 
